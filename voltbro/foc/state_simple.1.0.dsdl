@@ -1,0 +1,8 @@
+uavcan.si.unit.angle.Scalar.1.0 angle
+uavcan.si.unit.angular_velocity.Scalar.1.0 velocity
+uavcan.si.unit.electric_current.Scalar.1.0 current
+uavcan.si.unit.voltage.Scalar.1.0 bus_voltage
+uavcan.si.unit.voltage.Scalar.1.0 current_coil_voltage
+uavcan.primitive.scalar.Bit.1.0 has_fault
+
+@sealed
